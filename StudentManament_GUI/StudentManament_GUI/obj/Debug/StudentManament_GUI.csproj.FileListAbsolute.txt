@@ -1,0 +1,24 @@
+C:\Users\lbthu\OneDrive\Desktop\GUI\StudentManament_GUI\StudentManament_GUI\bin\Debug\StudentManament_GUI.exe.config
+C:\Users\lbthu\OneDrive\Desktop\GUI\StudentManament_GUI\StudentManament_GUI\bin\Debug\StudentManament_GUI.exe
+C:\Users\lbthu\OneDrive\Desktop\GUI\StudentManament_GUI\StudentManament_GUI\bin\Debug\StudentManament_GUI.pdb
+C:\Users\lbthu\OneDrive\Desktop\GUI\StudentManament_GUI\StudentManament_GUI\obj\Debug\StudentManament_GUI.csproj.AssemblyReference.cache
+C:\Users\lbthu\OneDrive\Desktop\GUI\StudentManament_GUI\StudentManament_GUI\obj\Debug\StudentManament_GUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\lbthu\OneDrive\Desktop\GUI\StudentManament_GUI\StudentManament_GUI\obj\Debug\StudentManament_GUI.fStudentManament.resources
+C:\Users\lbthu\OneDrive\Desktop\GUI\StudentManament_GUI\StudentManament_GUI\obj\Debug\StudentManament_GUI.Properties.Resources.resources
+C:\Users\lbthu\OneDrive\Desktop\GUI\StudentManament_GUI\StudentManament_GUI\obj\Debug\StudentManament_GUI.csproj.GenerateResource.cache
+C:\Users\lbthu\OneDrive\Desktop\GUI\StudentManament_GUI\StudentManament_GUI\obj\Debug\StudentManament_GUI.csproj.CoreCompileInputs.cache
+C:\Users\lbthu\OneDrive\Desktop\GUI\StudentManament_GUI\StudentManament_GUI\obj\Debug\StudentManament_GUI.exe
+C:\Users\lbthu\OneDrive\Desktop\GUI\StudentManament_GUI\StudentManament_GUI\obj\Debug\StudentManament_GUI.pdb
+C:\Users\lbthu\OneDrive\Desktop\GUI\StudentManament_GUI\StudentManament_GUI\obj\Debug\StudentManament_GUI.fLogin.resources
+C:\Users\ADMIN\Desktop\New folder\StudentManament_GUI\StudentManament_GUI\bin\Debug\StudentManament_GUI.exe.config
+C:\Users\ADMIN\Desktop\New folder\StudentManament_GUI\StudentManament_GUI\bin\Debug\StudentManament_GUI.exe
+C:\Users\ADMIN\Desktop\New folder\StudentManament_GUI\StudentManament_GUI\bin\Debug\StudentManament_GUI.pdb
+C:\Users\ADMIN\Desktop\New folder\StudentManament_GUI\StudentManament_GUI\obj\Debug\StudentManament_GUI.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\New folder\StudentManament_GUI\StudentManament_GUI\obj\Debug\StudentManament_GUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\Desktop\New folder\StudentManament_GUI\StudentManament_GUI\obj\Debug\StudentManament_GUI.fLogin.resources
+C:\Users\ADMIN\Desktop\New folder\StudentManament_GUI\StudentManament_GUI\obj\Debug\StudentManament_GUI.fStudentManament.resources
+C:\Users\ADMIN\Desktop\New folder\StudentManament_GUI\StudentManament_GUI\obj\Debug\StudentManament_GUI.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\New folder\StudentManament_GUI\StudentManament_GUI\obj\Debug\StudentManament_GUI.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\New folder\StudentManament_GUI\StudentManament_GUI\obj\Debug\StudentManament_GUI.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\New folder\StudentManament_GUI\StudentManament_GUI\obj\Debug\StudentManament_GUI.exe
+C:\Users\ADMIN\Desktop\New folder\StudentManament_GUI\StudentManament_GUI\obj\Debug\StudentManament_GUI.pdb

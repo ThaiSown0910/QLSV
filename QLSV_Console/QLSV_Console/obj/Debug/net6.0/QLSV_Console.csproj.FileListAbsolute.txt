@@ -1,0 +1,30 @@
+C:\Users\lbthu\OneDrive\Desktop\GUI\QLSV_Console\QLSV_Console\bin\Debug\net6.0\QLSV_Console.exe
+C:\Users\lbthu\OneDrive\Desktop\GUI\QLSV_Console\QLSV_Console\bin\Debug\net6.0\QLSV_Console.deps.json
+C:\Users\lbthu\OneDrive\Desktop\GUI\QLSV_Console\QLSV_Console\bin\Debug\net6.0\QLSV_Console.runtimeconfig.json
+C:\Users\lbthu\OneDrive\Desktop\GUI\QLSV_Console\QLSV_Console\bin\Debug\net6.0\QLSV_Console.dll
+C:\Users\lbthu\OneDrive\Desktop\GUI\QLSV_Console\QLSV_Console\bin\Debug\net6.0\QLSV_Console.pdb
+C:\Users\lbthu\OneDrive\Desktop\GUI\QLSV_Console\QLSV_Console\obj\Debug\net6.0\QLSV_Console.csproj.AssemblyReference.cache
+C:\Users\lbthu\OneDrive\Desktop\GUI\QLSV_Console\QLSV_Console\obj\Debug\net6.0\QLSV_Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lbthu\OneDrive\Desktop\GUI\QLSV_Console\QLSV_Console\obj\Debug\net6.0\QLSV_Console.AssemblyInfoInputs.cache
+C:\Users\lbthu\OneDrive\Desktop\GUI\QLSV_Console\QLSV_Console\obj\Debug\net6.0\QLSV_Console.AssemblyInfo.cs
+C:\Users\lbthu\OneDrive\Desktop\GUI\QLSV_Console\QLSV_Console\obj\Debug\net6.0\QLSV_Console.csproj.CoreCompileInputs.cache
+C:\Users\lbthu\OneDrive\Desktop\GUI\QLSV_Console\QLSV_Console\obj\Debug\net6.0\QLSV_Console.dll
+C:\Users\lbthu\OneDrive\Desktop\GUI\QLSV_Console\QLSV_Console\obj\Debug\net6.0\refint\QLSV_Console.dll
+C:\Users\lbthu\OneDrive\Desktop\GUI\QLSV_Console\QLSV_Console\obj\Debug\net6.0\QLSV_Console.pdb
+C:\Users\lbthu\OneDrive\Desktop\GUI\QLSV_Console\QLSV_Console\obj\Debug\net6.0\QLSV_Console.genruntimeconfig.cache
+C:\Users\lbthu\OneDrive\Desktop\GUI\QLSV_Console\QLSV_Console\obj\Debug\net6.0\ref\QLSV_Console.dll
+C:\Users\ADMIN\Desktop\New folder\QLSV_Console\QLSV_Console\bin\Debug\net6.0\QLSV_Console.exe
+C:\Users\ADMIN\Desktop\New folder\QLSV_Console\QLSV_Console\bin\Debug\net6.0\QLSV_Console.deps.json
+C:\Users\ADMIN\Desktop\New folder\QLSV_Console\QLSV_Console\bin\Debug\net6.0\QLSV_Console.runtimeconfig.json
+C:\Users\ADMIN\Desktop\New folder\QLSV_Console\QLSV_Console\bin\Debug\net6.0\QLSV_Console.dll
+C:\Users\ADMIN\Desktop\New folder\QLSV_Console\QLSV_Console\bin\Debug\net6.0\QLSV_Console.pdb
+C:\Users\ADMIN\Desktop\New folder\QLSV_Console\QLSV_Console\obj\Debug\net6.0\QLSV_Console.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\New folder\QLSV_Console\QLSV_Console\obj\Debug\net6.0\QLSV_Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\New folder\QLSV_Console\QLSV_Console\obj\Debug\net6.0\QLSV_Console.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\New folder\QLSV_Console\QLSV_Console\obj\Debug\net6.0\QLSV_Console.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\New folder\QLSV_Console\QLSV_Console\obj\Debug\net6.0\QLSV_Console.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\New folder\QLSV_Console\QLSV_Console\obj\Debug\net6.0\QLSV_Console.dll
+C:\Users\ADMIN\Desktop\New folder\QLSV_Console\QLSV_Console\obj\Debug\net6.0\refint\QLSV_Console.dll
+C:\Users\ADMIN\Desktop\New folder\QLSV_Console\QLSV_Console\obj\Debug\net6.0\QLSV_Console.pdb
+C:\Users\ADMIN\Desktop\New folder\QLSV_Console\QLSV_Console\obj\Debug\net6.0\QLSV_Console.genruntimeconfig.cache
+C:\Users\ADMIN\Desktop\New folder\QLSV_Console\QLSV_Console\obj\Debug\net6.0\ref\QLSV_Console.dll
